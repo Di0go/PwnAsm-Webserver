@@ -4,12 +4,13 @@ A tiny educational web server written in x86-64 Linux assembly (Intel syntax).
 Created as a learning/exercise piece for the pwn.college web server assembly module.
 
 ## Repository layout
-
-build.sh
-src/
--- webserver.s
-bin/
--- obj
+```
+├── build.sh
+├── src/
+│ └── webserver.s
+└── bin/
+│ └── obj/
+```
 
 *(Note that bin/ and bin/obj will automatically be created when running the build.sh script)*
 
