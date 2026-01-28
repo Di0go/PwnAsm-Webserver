@@ -1,7 +1,7 @@
-# WebServer (x86-64 assembly) — pwn.college web server assembly module
+# WebServer (x86-64 assembly) — pwn.college web server assembly challenge
 
 A tiny educational web server written in x86-64 Linux assembly (Intel syntax).  
-Created as a learning/exercise piece for the pwn.college web server assembly module.
+Created as a learning/exercise piece for the pwn.college web server assembly challenge.
 
 ## Repository layout
 ```
